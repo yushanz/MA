@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TXTfiles>
+   <File>
+      <Datum>
+         <Year>2017</Year>
+         <Month>10</Month>
+         <Date>19</Date>
+      </Datum>
+      <Time>
+         <Hour>11</Hour>
+         <Min>38</Min>
+         <Second>54</Second>
+      </Time>
+      <CycleCount>3643</CycleCount>
+      <Label>timestamp1; position; timestamp2; velocity; timestamp3; current;</Label>
+      <Data>2561 x 6 matrix</Data>
+   </File>
+   <File>
+      <Datum>
+         <Year>2018</Year>
+         <Month>03</Month>
+         <Date>18</Date>
+      </Datum>
+      <Time>
+         <Hour>13</Hour>
+         <Min>39</Min>
+         <Second>55</Second>
+      </Time>
+      <CycleCount>2333</CycleCount>
+      <Label>timestamp1; position; timestamp2; velocity; timestamp3; current;</Label>
+      <Data>14 x 6 matrix</Data>
+   </File>
+</TXTfiles>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CSVfiles>
+   <File>
+      <Datum>
+         <Year>2017</Year>
+         <Month>10</Month>
+         <Date>18</Date>
+      </Datum>
+      <Time>
+         <Hour>19</Hour>
+         <Min>51</Min>
+         <Second>25</Second>
+      </Time>
+      <CycleCount>212</CycleCount>
+      <SensorName>DMS</SensorName>
+      <SampleRate>25000</SampleRate>
+      <IPaddress>192.168.1.25</IPaddress>
+      <Port>3321</Port>
+      <Units>mA</Units>
+      <Data>355600 x 1 matrix</Data>
+   </File>
+</CSVfiles>
